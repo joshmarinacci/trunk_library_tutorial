@@ -3,13 +3,21 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "type": "module",
   "scripts": {
-    "build": "tsc",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "vitest": "vitest run --dir test",
+    "type-check": "tsc",
+    "test": "npm run vitest && npm run type-check",
+    "build": "esbuild --bundle src/index.ts --outdir=dist"
   },
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
-    "typescript": "^5.2.2"
+    "typescript": "^5.2.2",
+    "@typescript-eslint/eslint-plugin": "^6.9.0",
+    "@typescript-eslint/parser": "^6.9.0",
+    "eslint": "^8.48.0",
+    "eslint-plugin-simple-import-sort": "^10.0.0",
+    "vitest": "^0.34.6"
   }
 }
