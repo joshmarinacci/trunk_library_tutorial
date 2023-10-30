@@ -1,8 +1,9 @@
 {
   "compilerOptions": {
     "outDir": "dist",
-    "module": "ES6",
-    "declaration": true
+    "module": "nodenext",
+    "declaration": true,
+    "moduleResolution": "nodenext"
   },
   "include": ["src"]
 }
