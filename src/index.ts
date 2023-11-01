@@ -1,4 +1,3 @@
-
-export function square(a:number) {
-    return a*a
+export function square(a: number) {
+  return a * a;
 }
