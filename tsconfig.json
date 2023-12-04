@@ -1,6 +1,7 @@
 {
   "compilerOptions": {
-    "outDir": "dist",
+    "outDir": "tsc-out",
+    "declarationDir": "dist",
     "module": "nodenext",
     "declaration": true,
     "moduleResolution": "nodenext"

@@ -2,22 +2,25 @@
   "name": "trunk_library_tutorial",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "module": "dist/index.js",
   "type": "module",
+  "types": "dist/index.d.ts",
   "scripts": {
     "vitest": "vitest run --dir tests",
     "type-check": "tsc",
     "test": "npm run vitest && npm run type-check",
-    "build": "esbuild --bundle src/index.ts --outdir=dist"
+    "build": "esbuild --bundle src/index.ts --outdir=dist",
+    "clean": "rm -rf dist"
   },
   "author": "",
   "license": "MIT",
   "devDependencies": {
-    "typescript": "^5.2.2",
     "@typescript-eslint/eslint-plugin": "^6.9.0",
     "@typescript-eslint/parser": "^6.9.0",
     "eslint": "^8.48.0",
+    "eslint-config-prettier": "^9.1.0",
     "eslint-plugin-simple-import-sort": "^10.0.0",
+    "typescript": "^5.2.2",
     "vitest": "^0.34.6"
   }
 }

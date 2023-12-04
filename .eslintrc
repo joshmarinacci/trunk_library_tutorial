@@ -5,7 +5,8 @@
     "simple-import-sort"
   ],
   "extends": [
-    "plugin@typescript-eslint/recommended"
+    "eslint:recommended",
+    "plugin:@typescript-eslint/recommended"
   ],
   "rules": {
     "semi": ["error","never"],
