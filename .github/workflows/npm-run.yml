@@ -1,4 +1,4 @@
-name: Node.js Package
+name: run tests
 on: [push]
 jobs:
   build:
