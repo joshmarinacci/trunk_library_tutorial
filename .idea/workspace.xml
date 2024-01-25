@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="af34fbd2-49a8-469f-b2cb-6ff9ec66e4f3" name="Changes" comment="update package lock" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="hyky0ohj" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2XUPYHCFwjws97K5wuAZ4Dx4DgD" />
+  <component name="ProjectViewState">
+    <option name="foldersAlwaysOnTop" value="false" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;eslint.code.style.apply.dismiss&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/josh/WebstormProjects/trunk_library_tutorial&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;/Users/josh/WebstormProjects/trunk_library_tutorial/node_modules/typescript/lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="npm.type-check">
+    <configuration name="main functions" type="JavaScriptTestRunnerVitest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <vitest-package value="$PROJECT_DIR$/node_modules/vitest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <vitest-options value="--run" />
+      <envs />
+      <scope-kind value="SUITE" />
+      <test-file value="$PROJECT_DIR$/tests/index.test.ts" />
+      <test-names>
+        <test-name value="main functions" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="test" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="type-check" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="type-check" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="vitest" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="vitest" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.type-check" />
+        <item itemvalue="npm.build" />
+        <item itemvalue="npm.vitest" />
+        <item itemvalue="npm.test" />
+        <item itemvalue="Vitest.main functions" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="af34fbd2-49a8-469f-b2cb-6ff9ec66e4f3" name="Changes" comment="" />
+      <created>1698680730561</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1698680730561</updated>
+      <workItem from="1698680731562" duration="4882000" />
+      <workItem from="1698696827298" duration="39000" />
+      <workItem from="1698696883697" duration="602000" />
+      <workItem from="1698699186807" duration="47000" />
+      <workItem from="1698699239034" duration="1201000" />
+      <workItem from="1698771259720" duration="702000" />
+      <workItem from="1698855313623" duration="830000" />
+      <workItem from="1698857418258" duration="1597000" />
+      <workItem from="1701712915161" duration="5391000" />
+      <workItem from="1701736941603" duration="31000" />
+      <workItem from="1704995315396" duration="1400000" />
+      <workItem from="1706209580915" duration="628000" />
+    </task>
+    <task id="LOCAL-00001" summary="add initial code">
+      <option name="closed" value="true" />
+      <created>1698680883863</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1698680883863</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add initial code">
+      <option name="closed" value="true" />
+      <created>1698681231102</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1698681231102</updated>
+    </task>
+    <task id="LOCAL-00003" summary="update code">
+      <option name="closed" value="true" />
+      <created>1698683530588</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1698683530588</updated>
+    </task>
+    <task id="LOCAL-00004" summary="added workflow file">
+      <option name="closed" value="true" />
+      <created>1698683881711</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1698683881711</updated>
+    </task>
+    <task id="LOCAL-00005" summary="added package-lock.json">
+      <option name="closed" value="true" />
+      <created>1698684333269</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1698684333269</updated>
+    </task>
+    <task id="LOCAL-00006" summary="fix path">
+      <option name="closed" value="true" />
+      <created>1698699593750</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1698699593750</updated>
+    </task>
+    <task id="LOCAL-00007" summary="fix tsconfig">
+      <option name="closed" value="true" />
+      <created>1698699796381</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1698699796381</updated>
+    </task>
+    <task id="LOCAL-00008" summary="recreate eslint bug">
+      <option name="closed" value="true" />
+      <created>1698857540313</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1698857540313</updated>
+    </task>
+    <task id="LOCAL-00009" summary="updates">
+      <option name="closed" value="true" />
+      <created>1701715963146</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1701715963146</updated>
+    </task>
+    <task id="LOCAL-00010" summary="add npm publish workflow">
+      <option name="closed" value="true" />
+      <created>1701717343480</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1701717343480</updated>
+    </task>
+    <task id="LOCAL-00011" summary="remove the whoami">
+      <option name="closed" value="true" />
+      <created>1701717540655</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1701717540655</updated>
+    </task>
+    <task id="LOCAL-00012" summary="update workflows">
+      <option name="closed" value="true" />
+      <created>1701717681666</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1701717681666</updated>
+    </task>
+    <task id="LOCAL-00013" summary="remove files">
+      <option name="closed" value="true" />
+      <created>1706209816571</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1706209816571</updated>
+    </task>
+    <task id="LOCAL-00014" summary="update package lock">
+      <option name="closed" value="true" />
+      <created>1706209862083</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1706209862083</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add initial code" />
+    <MESSAGE value="update code" />
+    <MESSAGE value="added workflow file" />
+    <MESSAGE value="added package-lock.json" />
+    <MESSAGE value="fix path" />
+    <MESSAGE value="fix tsconfig" />
+    <MESSAGE value="recreate eslint bug" />
+    <MESSAGE value="updates" />
+    <MESSAGE value="add npm publish workflow" />
+    <MESSAGE value="remove the whoami" />
+    <MESSAGE value="update workflows" />
+    <MESSAGE value="remove files" />
+    <MESSAGE value="update package lock" />
+    <option name="LAST_COMMIT_MESSAGE" value="update package lock" />
+  </component>
+</project>
